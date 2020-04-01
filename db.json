@@ -1,0 +1,43 @@
+{
+  "home": [
+    {
+      "original":"https://i.picsum.photos/id/1015/1000/600.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius convallis libero, non sollicitudin metus auctor in. Aliquam massa urna, tempus at lacus a, commodo auctor tellus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+    },
+    {
+      "original":"https://i.picsum.photos/id/1019/1000/600.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius convallis libero, non sollicitudin metus auctor in. Aliquam massa urna, tempus at lacus a, commodo auctor tellus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+    },
+    {
+      "original":"https://i.pinimg.com/originals/02/e4/72/02e4728668bb9f67cbdf603627cd1551.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius convallis libero, non sollicitudin metus auctor in. Aliquam massa urna, tempus at lacus a, commodo auctor tellus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+    },
+    {
+      "original":"https://fotodicasbrasil.com.br/wp-content/uploads/2018/06/Destacada_panoramic-landscape-2305606_1920-690x350.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius convallis libero, non sollicitudin metus auctor in. Aliquam massa urna, tempus at lacus a, commodo auctor tellus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+    }
+  ],
+
+  "project": [
+    {
+      "original":"https://i.picsum.photos/id/1018/1000/600.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius convallis libero, non sollicitudin metus auctor in. Aliquam massa urna, tempus at lacus a, commodo auctor tellus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+      "category": "gourmet"
+    },
+    {
+      "original":"https://i.picsum.photos/id/1015/1000/600.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius convallis libero, non sollicitudin metus auctor in. Aliquam massa urna, tempus at lacus a, commodo auctor tellus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+      "category": "gourmet"
+    },
+    {
+      "original":"https://i.picsum.photos/id/1019/1000/600.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius convallis libero, non sollicitudin metus auctor in. Aliquam massa urna, tempus at lacus a, commodo auctor tellus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+      "category": "fachadas"
+    },
+    {
+      "original":"https://i.pinimg.com/originals/02/e4/72/02e4728668bb9f67cbdf603627cd1551.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius convallis libero, non sollicitudin metus auctor in. Aliquam massa urna, tempus at lacus a, commodo auctor tellus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+      "category": "comercial"
+    }
+  ]
+}
